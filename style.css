@@ -1,0 +1,103 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.header{
+background-color: #008000;
+margin-top: -1%;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: large;
+color: white;
+}
+.header-text{
+  position: absolute;
+  margin-left: 6%;
+  color: white;
+}
+nav{
+  margin-top: 2%;
+  position:absolute;
+  margin-left: 40%;
+  
+}
+nav a{
+  text-decoration: none;
+  color: white;
+align-items: center;
+}
+.image-top img{
+  object-fit: cover; 
+  width: 100%;
+  /* position: relative;  */
+
+}
+.content{
+  position: absolute;
+  margin-top: -50%;
+  margin-left: 20%;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.content h1{
+    font-size: 60px;
+}
+.content p{
+  font-size: 20px;
+  margin-top: -3%;
+  margin-left: 10%;
+}
+.description{
+  margin-top: 2%;
+ border-top: solid 1px;
+ border-bottom: solid 1px;
+ display: flex;
+ justify-content: center;
+}
+
+
+
+
+.imagetop{ 
+
+  width:20%;
+   
+   
+}
+
+  
+
+
+.Image two{
+
+height: 70%;
+
+
+
+
+}
+
+
+.Container two{
+ display: flex;
+
+
+
+
+
+}
+
+
+
+
+
+  
+    
+    
+
+  
+  
+    
+
